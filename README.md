@@ -75,7 +75,7 @@ The backend is deployed on [Render](https://render.com/). However, please note t
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/kids-zone.git
+   git clone https://github.com/fateh-kudsi-11/kids-zone-flutter.git
    ```
 
 2. 2. Install the required packages by navigating to the project directory and running:
